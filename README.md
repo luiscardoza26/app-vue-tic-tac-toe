@@ -43,3 +43,10 @@ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+Espero sea de su agrado este proyecto, hice lo mejor, siempre horientado al logro, y seria un honor poder trabajar de la mano con ustedes en proyectos futuros.
+
+
+Gracias de ante mano por la atención prestada.
