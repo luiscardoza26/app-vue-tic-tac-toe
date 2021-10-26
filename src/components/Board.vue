@@ -92,8 +92,8 @@ export default {
     font-weight: bold;
     line-height: 34px;
     height: 100px;
-    margin-right: -215px;
-    margin-left: 215px;
+    margin-right: -515px;
+    margin-left: 515px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
